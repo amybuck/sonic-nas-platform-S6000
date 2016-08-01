@@ -1,0 +1,12 @@
+Source: libsonic-nas-platform-s6000
+Section: net
+Priority: optional
+Maintainer: Dell <support@dell.com>
+Build-Depends: debhelper (>= 9), autotools-dev,libsonic-common-dev,sonic-object-library-dev,libsonic-logging-dev,sonic-ndi-api-dev
+Standards-Version: 3.9.3
+
+Package: libsonic-nas-platform-s6000-1
+Provides: libsonic-nas-platform1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Network Abstraction s6000 Platform specific files and implementation
