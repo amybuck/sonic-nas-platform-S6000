@@ -6,7 +6,7 @@ Platform specific utilities for the SONiC project
 Description
 -----------
 
-This repo contains platform specific files and implementation for the Network abstraction service. There are confiugration files in this repo that defined port mapping, initial QoS policies, PHY media types, etc.
+This repo contains platform specific files and implementation for the Network abstraction service. There are configuration files in this repo that define port mapping, initial QoS policies, PHY media types, etc.
 
 Building
 ---------
