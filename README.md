@@ -24,7 +24,6 @@ See [sonic-nas-manifest](https://github.com/Azure/sonic-nas-manifest) for more i
 * `libsonic-model-dev` 
 * `sonic-ndi-api-dev`
 
-### Build command 
-    sonic_build --dpkg libsonic-logging1 libsonic-logging-dev libsonic-common1 libsonic-common-dev libsonic-object-library1 libsonic-object-library-dev libsonic-model1 libsonic-model-dev sonic-ndi-api-dev -- clean binary
+BUILD CMD: sonic_build --dpkg libsonic-logging1 libsonic-logging-dev libsonic-common1 libsonic-common-dev libsonic-object-library1 libsonic-object-library-dev libsonic-model1 libsonic-model-dev sonic-ndi-api-dev -- clean binary
 
 (c) Dell 2016
